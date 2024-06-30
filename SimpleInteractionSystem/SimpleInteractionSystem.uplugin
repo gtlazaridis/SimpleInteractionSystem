@@ -1,0 +1,26 @@
+{
+	"FileVersion": 3,
+	"Version": 1,
+	"VersionName": "1.0.1",
+	"FriendlyName": "SimpleInteractionSystem",
+	"Description": "",
+	"Category": "Other",
+	"CreatedBy": "Georgios Lazaridis",
+	"CreatedByURL": "",
+	"DocsURL": "https://docs.google.com/document/d/1btaSW1SZPIeAjWeEC_I5teQ7OrlOcteS6hkl0Hx400c/edit?usp=sharing",
+	"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/product/6a8e9b9d842c440f8c05e42c9b0634bd",
+	"SupportURL": "",
+	"EngineVersion": "5.4.0",
+	"CanContainContent": true,
+	"Installed": true,
+	"Modules": [
+		{
+			"Name": "SimpleInteractionSystem",
+			"Type": "Runtime",
+			"LoadingPhase": "PreDefault",
+			"PlatformAllowList": [
+				"Win64"
+			]
+		}
+	]
+}
